@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TestGem
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/test_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -39,3 +40,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+=======
+# Ruby_Homework
+学校のルビーの課題です。
+>>>>>>> bfefd3d3055d387b5b663991fb00cf26b45df988
